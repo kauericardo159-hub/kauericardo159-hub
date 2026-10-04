@@ -10,18 +10,19 @@
 
 * Sou um garoto que está aprendendo programação e designer.
 
-* Tipos:
-  
-> HTML.
-
-> JavaScript.
-
-> Style.
-
-> Script Luau/Lua.
-
-> Entre outros tipos de programação.
+> [!TIP] 
+> - HTML.
+> 
+> - JavaScript.
+> 
+> - Style
+> 
+> - Script Luau/Lua.
+> 
+> - Entre outros tipos de programação.
 
 ---
+
 Ainda sou aprendiz nisso, eu amo programar e criar coisas com isso, alguns dos meus projetos não foram terminados por conta que ja me senti satisfeito, ou que não tenho tanta ideia, até mesmo esqueço disso.
+
 ---
