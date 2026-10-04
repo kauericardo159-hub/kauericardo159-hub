@@ -11,11 +11,11 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
   &nbsp;
-  <a href="https://x.com" target="_blank">
+  <a href="https://x.com/KaueTheProtogen" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Badge" />
   </a>
   &nbsp;
-  <a href="https://bsky.app" target="_blank">
+  <a href="https://bsky.app/profile/kauetheprotogen.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge" />
   </a>
 
