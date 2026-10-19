@@ -2,7 +2,7 @@
 
   <h1>✨ Olá, eu sou o Kauê! ✨</h1>
 
-<img width="640" height="640" alt="81572" src="https://github.com/user-attachments/assets/a96ab99a-6174-43f5-9c65-4a95d4142b83" />
+<img width="180" height="180" alt="81572" src="https://github.com/user-attachments/assets/a96ab99a-6174-43f5-9c65-4a95d4142b83" />
 
   <br/><br/>
 
