@@ -42,7 +42,7 @@
 
 - 🇧🇷 **Nacionalidade:** Brasileiro.
 - 🎓 **Status:** Estudante (18 anos).
-- 🌈 **Identidade:** Gay <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZp2NK2EdUiYHCcK9kTYbQIUwejkJu94yMSrkjJ6wRiRVw3lEnQ8YiCPY&s=10" height="16" alt="Bandeira Gay" /> | Femboy <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Femboy_flag.svg/3840px-Femboy_flag.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="16" alt="Bandeira Femboy" /> | Furry 🐾
+- 🌈 **Identidade:** Gay <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/5-striped_New_Gay_Male_Pride_Flag.svg/3840px-5-striped_New_Gay_Male_Pride_Flag.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="16" alt="Bandeira Gay" /> | Femboy <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Femboy_flag.svg/3840px-Femboy_flag.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="16" alt="Bandeira Femboy" /> | Furry 🐾
 - 🗣️ **Idiomas:** Português (Nativo) | Inglês (Em aprendizado / Nível básico por enquanto).
 - 🎨 **Interesses:** Programação Front-End, Desenvolvimento de Jogos/Scripts e UI/UX Design.
 
